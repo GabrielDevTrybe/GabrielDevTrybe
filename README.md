@@ -59,7 +59,7 @@ Problemas que resolvi no Code Wars => https://www.codewars.com/users/GabrielCoel
 - Uma carteira para gerenciamento de despesas pessoais construída com Javascript, React e React Redux.
 
 ### 📌 [Trivia React Redux](https://github.com/GabrielDevTrybe/Trivia)
-- Aplicativo de jogo Trivia desenvolvido com React e React Redux ([Page](https://trybe-project-trivia-react-redux.vercel.app/))
+- Aplicativo de jogo Trivia desenvolvido com React e React Redux
 
 ### 📌 [StarWars Planets Search](https://github.com/GabrielDevTrybe/StarWars)
 - Aplicativo que lista e filtra planetas do universo Star Wars usando Context API e Hooks para controlar estados globais.
