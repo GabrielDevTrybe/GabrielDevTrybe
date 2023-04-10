@@ -1,5 +1,5 @@
 ## :sunglasses: About Me
-Sou um repositor de mercado de 27 anos que está fazendo a transição para uma carreira em tecnologia da informação. Atualmente resido em Campinas, Brasil e estou estudando na Trybe.
+Sou um profissional de 27 anos que está fazendo a transição para uma carreira em tecnologia da informação. Atualmente resido em Campinas, Brasil e estou estudando na Trybe.
 
 Sou um desenvolvedor web que está sempre disposto a investir tempo e esforço em codificação e se destaca em equipes diversificadas e coletivas.
 
