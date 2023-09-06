@@ -161,6 +161,8 @@ Problemas que resolvi no Code Wars => https://www.codewars.com/users/GabrielCoel
 [Typescript-url]: https://www.typescriptlang.org/
 [Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
+[C#]: https://dotnet.microsoft.com/pt-br/apps/aspnet/web-apps
+[C#-url]: https://dotnet.microsoft.com/pt-br/apps/aspnet/web-apps
 
 <!-- TESTING -->
 [Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
