@@ -161,7 +161,7 @@ Problemas que resolvi no Code Wars => https://www.codewars.com/users/GabrielCoel
 [Typescript-url]: https://www.typescriptlang.org/
 [Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
-[C#-badge]: https://img.shields.io/badge/C#-993399
+[C#-badge]: https://img.shields.io/badge/C%23-993399?style=quadrado&logo=C%23&color=purple
 [C#-url]: https://learn.microsoft.com/pt-br/dotnet/csharp/
 
 <!-- TESTING -->
