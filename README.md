@@ -114,7 +114,7 @@ Problemas que resolvi no Code Wars => https://www.codewars.com/users/GabrielCoel
 > [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
 
 📍 Back-End
-> [![MySQL][MySQL]][MySQL-url] [![Node.js][Node.js]][Node.js-url] [![Typescript][Typescript]][Typescript-url] [![C#][C#]][C#-url]
+> [![MySQL][MySQL]][MySQL-url] [![Node.js][Node.js]][Node.js-url] [![Typescript][Typescript]][Typescript-url] [![C#][C#-badge]][C#-url]
 
 📍 Testing
 
@@ -161,7 +161,7 @@ Problemas que resolvi no Code Wars => https://www.codewars.com/users/GabrielCoel
 [Typescript-url]: https://www.typescriptlang.org/
 [Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
-[C#]: https://learn.microsoft.com/pt-br/dotnet/csharp/
+[C#-badge]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 [C#-url]: https://learn.microsoft.com/pt-br/dotnet/csharp/
 
 <!-- TESTING -->
