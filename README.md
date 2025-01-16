@@ -1,11 +1,11 @@
-## :sunglasses: About Me
+## :sunglasses: Sobre Mim
 Desenvolvedor backend com 2 anos de experiência.
 Atuei por 1 ano e meio na FanBase, onde fui responsável por desenvolver integrações com foco em bancos de dados utilizando C#, MySQL e APIs REST.
 Atualmente, trabalho com Python, desenvolvendo automações empresariais e integrando funcionalidades de chatbots com WhatsApp.
 Tenho experiência em deploy de aplicações na AWS, especialmente utilizando o Lightsail. Sou apaixonado por otimizar processos e criar soluções escaláveis.
 
 <details open>
- <summary><h2>:computer: Projects</h2></summary>
+ <summary><h2>:computer: Projetos</h2></summary>
 
 <details>
 <summary><h3>:abc: Back-end</h3></summary>
