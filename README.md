@@ -9,65 +9,6 @@ Problemas que resolvi no Code Wars => https://www.codewars.com/users/GabrielCoel
 
 <details open>
  <summary><h2>:computer: Trybe Projects</h2></summary>
- 
- 
-<details>
-<summary><h3>:abc: Fundamentals</h3></summary>
-
-### 📌 [Lessons Learned](https://github.com/GabrielDevTrybe/lessons_learned)
-- Uma página HTML/CSS sobre as lições aprendidas nos três primeiros blocos em Trybe.
-
-### 📌 [Playground Functions](https://github.com/GabrielDevTrybe/playground-functions)
-- Aqui esta a resolução de 13 funções que resolvi no inicio do curso
-
-### 📌 [Todo List](https://github.com/arthur-debiasi/trybe-fundamentals-todo-list)
-- A todo list page built with Javascript, HTML and CSS. 
-
-### 📌 [Pixels Art](https://github.com/GabrielDevTrybe/Pixels-Art)
-- Uma página de pintura de placa de pixels construída com Javascript, HTML e CSS.
-
-### 📌 [Unit Tests](https://github.com/GabrielDevTrybe/js-unit-tests)
-- Um Projeto para praticar a implementação de Testes Unitários.
-
-### 📌 [Zoo Functions](https://github.com/GabrielDevTrybe/zoo-functions)
-- Uma simulação de um sistema de gerenciamento de zoológico construído para praticar funções JavaScript de ordem superior.
-
-</details>
-
-<details>
-<summary><h3>:abc: Front-end</h3></summary>
-
-### 📌 [Shopping Cart](https://github.com/GabrielDevTrybe/Shopping-Cart)
-- Carrinhos de compras desenvolvido com Javascript manipulando DOM
-
-### 📌 [Solar System](https://github.com/GabrielDevTrybe/Solar-System)
-- React App sobre Planetas e Missões construído com Javascript e React. ([Page](https://solar-system-trybe.vercel.app/))
-
-### 📌 [Tryunfo](https://github.com/GabrielDevTrybe/Tryunfo)
-- Um aplicativo de jogo semelhante ao Top Trumps criado com o React.
-
-### 📌 [TrybeTunes](https://github.com/GabrielDevTrybe/TrybeTunes)
-- Aplicativo de streaming de música feito com React, usando métodos de ciclo de vida de componentes e React Router.
-
-### 📌 [Front-end Online Store](https://github.com/GabrielDevTrybe/Front-End-Online-Store)
-- Aplicação simplificada de uma loja online construída com React.
-
-### 📌 [React Testint Library](https://github.com/GabrielDevTrybe/React-Testing-Library)
-- Uma rotina de teste para um aplicativo Pokédex pré-existente usando React Testing Library.
-
-### 📌 [Trybe Wallet](https://github.com/GabrielDevTrybe/Trybewallet)
-- Uma carteira para gerenciamento de despesas pessoais construída com Javascript, React e React Redux.
-
-### 📌 [Trivia React Redux](https://github.com/GabrielDevTrybe/Trivia)
-- Aplicativo de jogo Trivia desenvolvido com React e React Redux
-
-### 📌 [StarWars Planets Search](https://github.com/GabrielDevTrybe/StarWars)
-- Aplicativo que lista e filtra planetas do universo Star Wars usando Context API e Hooks para controlar estados globais.
-
-### 📌 [Recipes App](https://github.com/GabrielDevTrybe/recipes-app-test)
-- React App para receitas de bebidas e refeições construídas com Javascript e React, usando React Hooks e Context API. ([page](https://recipes-app-test-one.vercel.app/))
-
-</details>
 
 <details>
 <summary><h3>:abc: Back-end</h3></summary>
@@ -108,10 +49,6 @@ Problemas que resolvi no Code Wars => https://www.codewars.com/users/GabrielCoel
 </details>
 
 ## 🔨 Skills
-
-📍 Front-End
-
-> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
 
 📍 Back-End
 > [![MySQL][MySQL]][MySQL-url] [![Node.js][Node.js]][Node.js-url] [![Typescript][Typescript]][Typescript-url] [![C#][C#-badge]][C#-url]
