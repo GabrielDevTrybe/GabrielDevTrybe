@@ -1,14 +1,11 @@
 ## :sunglasses: About Me
-Sou um profissional de 27 anos que está fazendo a transição para uma carreira em tecnologia da informação. Atualmente resido em Campinas, Brasil e estou trabalhando na Fanbase.
-
-Sou um desenvolvedor web que está sempre disposto a investir tempo e esforço em codificação e se destaca em equipes diversificadas e coletivas.
-
-A resolução de problemas é a minha paixão. Sinta-se à vontade para me desafiar para uma resolução de problema no CodeWars!
-
-Problemas que resolvi no Code Wars => https://www.codewars.com/users/GabrielCoelho/completed_solutions
+Desenvolvedor backend com 2 anos de experiência.
+Atuei por 1 ano e meio na FanBase, onde fui responsável por desenvolver integrações com foco em bancos de dados utilizando C#, MySQL e APIs REST.
+Atualmente, trabalho com Python, desenvolvendo automações empresariais e integrando funcionalidades de chatbots com WhatsApp.
+Tenho experiência em deploy de aplicações na AWS, especialmente utilizando o Lightsail. Sou apaixonado por otimizar processos e criar soluções escaláveis.
 
 <details open>
- <summary><h2>:computer: Trybe Projects</h2></summary>
+ <summary><h2>:computer: Projects</h2></summary>
 
 <details>
 <summary><h3>:abc: Back-end</h3></summary>
